@@ -81,4 +81,4 @@ streamlit run app.py
 ---
 ## Author
 Pravin Singh Charan
-GitHub: https://github.com/Pravin-Singh-Charan-gh
+ | Linkedin: https://www.linkedin.com/in/pravin07/
